@@ -1,4 +1,4 @@
-’
+
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -113,11 +113,18 @@
     <h1>أنوثة مقدسة – لم تُخلق لترضي معاييرهم</h1>
   </header>
   <div class="container">
-    <div class="hero">
-      <img src="cover11.PNG" alt="الغلاف الأمامي" />
-<img src="cover22.PNG" alt="الغلاف الخلفي" />
+<div class="container">
+  <div style="text-align: center; margin-bottom: 1.5rem;">
+<div style="text-align: center; margin-bottom: 1.5rem;">
 
-      <p>
+ <img src="file:///C:/Users/Ahmed%20Sadeq/Downloads/femininity/imagesimg1.jpg.jpg" ="غلاف الكتاب" style="max-width: 700px; width: 100%; height: auto;" />
+
+
+
+    </div>
+
+  <div class="hero">
+             <p>
         هذا ليس كتابًا… بل مرآة تذكّركِ بذاتكِ قبل أن يغمرها الخوف ويقيدها العيب. في رحلة من التأمل والشفاء، يأخذكِ الكتاب نحو طاقتكِ الأنثوية الأصلية، صوتكِ، جسدكِ، وحدودكِ… كما خلقها الله.
       </p>
     </div>
@@ -169,4 +176,3 @@
   </div>
 </body>
 </html>
-delete unused file
